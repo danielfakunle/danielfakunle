@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/daniel-fakunle" target="blank"
+  <a href="https://linkedin.com/in/daniel-fakunle" target="_blank"
     ><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="daniel-fakunle"/>
   </a>
 </p>
