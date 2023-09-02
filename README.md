@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **React, NextJS, MongoDB**
 - 💬 Ask me about **React**
 - 📫 How to reach me **tosinfakunle@yahoo.com**
+- 👨🏾‍💻 All of my projects are available at **[danielfakunle.netlify.app](https://danielfakunle.netlify.app/)**
 - ⚡ Fun fact **I'm literally spider-man (not lying)**
 
 <h3 align="left">Connect with me:</h3>
