@@ -1,58 +1,18 @@
-<h1 align="center">Why hello there 👋🏾, I'm Daniel</h1>
-<h3 align="center">I like creating stuff, mostly with code.</h3>
+## Hello 👋
 
-- 🌱 I’m currently learning **React, NextJS, MongoDB**
-- 💬 Ask me about **React**
-- 📫 How to reach me **tosinfakunle@yahoo.com**
-- 👨🏾‍💻 All of my projects are available at **[danielfakunle.netlify.app](https://danielfakunle.netlify.app/)**
-- ⚡ Fun fact **I'm literally spider-man (not lying)**
+I like creating nice things.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/daniel-fakunle" target="_blank"
-    ><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="daniel-fakunle"/>
-  </a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/danielfakunle/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
-  </a>
-</p>
+### Tech I Like
+
+<div>
+ <img src="https://img.shields.io/badge/figma-1E1E1E?style=for-the-badge&logo=figma" alt="figma" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
+  <img src="https://img.shields.io/badge/tailwind%20css-0F172A?style=for-the-badge&logo=tailwindcss" alt="tailwind" />
+  <img src="https://img.shields.io/badge/mongodb-00684A?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+</div>
 
 <!--
 **danielfakunle/danielfakunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
